@@ -367,7 +367,7 @@ form input,form select,form textarea{
         overflow: auto;
 }
 .footer-widgets{
-        border: 2px solid white;
+        /* border: 2px solid white; */
         width: 24%;
         float: left;
         margin-right: 1.33%;
@@ -409,9 +409,10 @@ form input,form select,form textarea{
         overflow: auto;
 }
 .social-widgets{
-        border: 2px solid white;
+        /* border: 2px solid white; */
         width: 33.33%;
         float: left;
+        color: #ffffff;
         text-align: center;
 }
 .social-widgets img{
